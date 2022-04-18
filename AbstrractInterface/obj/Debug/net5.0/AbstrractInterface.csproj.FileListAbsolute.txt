@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\CsharpPart3\AbstrractInterface\bin\Debug\net5.0\AbstrractInterface.exe
+C:\Users\User\source\repos\CsharpPart3\AbstrractInterface\bin\Debug\net5.0\AbstrractInterface.deps.json
+C:\Users\User\source\repos\CsharpPart3\AbstrractInterface\bin\Debug\net5.0\AbstrractInterface.runtimeconfig.json
+C:\Users\User\source\repos\CsharpPart3\AbstrractInterface\bin\Debug\net5.0\AbstrractInterface.runtimeconfig.dev.json
+C:\Users\User\source\repos\CsharpPart3\AbstrractInterface\bin\Debug\net5.0\AbstrractInterface.dll
+C:\Users\User\source\repos\CsharpPart3\AbstrractInterface\bin\Debug\net5.0\ref\AbstrractInterface.dll
+C:\Users\User\source\repos\CsharpPart3\AbstrractInterface\bin\Debug\net5.0\AbstrractInterface.pdb
+C:\Users\User\source\repos\CsharpPart3\AbstrractInterface\obj\Debug\net5.0\AbstrractInterface.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CsharpPart3\AbstrractInterface\obj\Debug\net5.0\AbstrractInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CsharpPart3\AbstrractInterface\obj\Debug\net5.0\AbstrractInterface.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CsharpPart3\AbstrractInterface\obj\Debug\net5.0\AbstrractInterface.AssemblyInfo.cs
+C:\Users\User\source\repos\CsharpPart3\AbstrractInterface\obj\Debug\net5.0\AbstrractInterface.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CsharpPart3\AbstrractInterface\obj\Debug\net5.0\AbstrractInterface.dll
+C:\Users\User\source\repos\CsharpPart3\AbstrractInterface\obj\Debug\net5.0\ref\AbstrractInterface.dll
+C:\Users\User\source\repos\CsharpPart3\AbstrractInterface\obj\Debug\net5.0\AbstrractInterface.pdb
+C:\Users\User\source\repos\CsharpPart3\AbstrractInterface\obj\Debug\net5.0\AbstrractInterface.genruntimeconfig.cache
